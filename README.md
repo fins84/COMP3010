@@ -12,6 +12,6 @@ Section 2 task is to train a residual network for image classification on the Fa
 
 Section 3 task was to train a residual network for image classification on the CIFAR-10 Dataset.
 
-**Both Section 2 and 3 required a balance of performance, accuracy and training time
+**Both Section 2 and 3 required a balance of performance, accuracy and training time**
 
 By Kevin Mesquita
